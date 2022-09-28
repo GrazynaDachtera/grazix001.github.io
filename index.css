@@ -1,0 +1,52 @@
+
+h1 {
+    font-family: Helvetica;
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .headline {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1eacoml*_ga*Mjk3NzM3NzI0NS4xNjYyMzcyODk0*_ga_3LRZM6TM9L*MTY2NDM2MTkxMy41NC4xLjE2NjQzNjI2MjUuMy4wLjA.");
+    width: 1450px;
+    height: 220px;
+    margin: 0 auto;
+    }
+  
+  .Brushes {
+    font-family: Helvetica;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: mediumspringgreen;
+  }
+
+  .Frames {
+    font-family: Helvetica;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: lightcoral;
+  }
+   
+   
+  .Paint {
+    font-family: Helvetica;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: skyblue
+  }
+
+  h3 {
+    font-family: Helvetica;
+    color: black;
+    font-size: 25px;   
+  }
+  p {
+    font-family: Helvetica;
+    color: black;
+    font-size: 18px;
+
+  }
